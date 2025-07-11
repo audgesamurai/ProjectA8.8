@@ -1,3 +1,12 @@
+// ============================================================
+// Project: Practice Exercise 8.15.8 - File Stats
+// Description: Asks for a file name, then shows char, word, and 
+//              line count. Loops until user enters invalid file.
+// Coder: Audrey Tapia
+// Tester: Heily
+// Team Members: Audrey, Giannfranco, Ashley, Heily
+// ============================================================
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
